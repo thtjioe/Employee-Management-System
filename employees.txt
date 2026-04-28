@@ -1,0 +1,4 @@
+{'name': 'Susan Meyers', 'idNumber': 47800, 'department': 'Accounting', 'title': 'Vice President'}
+{'name': 'Mark Jones', 'idNumber': 39120, 'department': 'IT', 'title': 'Programmer'}
+{'name': 'Joy Rogers', 'idNumber': 81744, 'department': 'Manufacturing', 'title': 'Engineer'}
+{'name': 'Theo Tjioe', 'idNumber': 2550526, 'department': 'Logistics', 'title': 'Order Writer'}

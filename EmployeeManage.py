@@ -1,6 +1,5 @@
 import os
 import ast
-from matplotlib.pylab import rint 
 
 FILENAME = "employees.txt"
 
